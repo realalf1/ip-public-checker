@@ -1,0 +1,5 @@
+1. https://api.ipify.org
+2. https://suip.biz/ip
+3. https://ipapi.co/ip
+4. https://api64.ipify.org/
+5. https://ipfind.com - API from developer account get 100/day
